@@ -102238,7 +102238,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "officemain-chunk-1-0a687b58.png",
+      "image": "officemain-chunk-1-fc3bb31d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -102490,10 +102490,44 @@
           ]
         },
         {
-          "id": 96
+          "id": 96,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 97
+          "id": 96,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
           "id": 98,
@@ -102559,7 +102593,7 @@
           "id": 104,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -102569,7 +102603,7 @@
           "id": 104,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -102768,7 +102802,7 @@
           "id": 160,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -102778,7 +102812,7 @@
           "id": 160,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -102788,7 +102822,7 @@
           "id": 161,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -102798,7 +102832,7 @@
           "id": 161,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -103312,7 +103346,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "officemain-chunk-2-0a687b58.png",
+      "image": "officemain-chunk-2-fc3bb31d.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -103327,13 +103361,20 @@
           "id": 4
         },
         {
-          "id": 5
-        },
-        {
-          "id": 6,
+          "id": 5,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "properties": [
+            {
+              "name": "collides",
               "type": "bool",
               "value": true
             }
@@ -103343,7 +103384,17 @@
           "id": 6,
           "properties": [
             {
-              "name": "collisions",
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "properties": [
+            {
+              "name": "collides",
               "type": "bool",
               "value": true
             }

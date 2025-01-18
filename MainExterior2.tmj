@@ -2283,13 +2283,30 @@
                              "width":32,
                              "x":0,
                              "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "id":130,
@@ -2309,13 +2326,36 @@
                              "width":32,
                              "x":0,
                              "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":2,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collisions",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "id":131,
@@ -2335,13 +2375,36 @@
                              "width":32,
                              "x":0,
                              "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":2,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collisions",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "id":160,
@@ -2366,6 +2429,40 @@
                              "height":32,
                              "id":2,
                              "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":3,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collisions",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":32,
+                             "x":0,
+                             "y":0
+                            }, 
+                            {
+                             "height":32,
+                             "id":4,
+                             "name":"",
+                             "properties":[
+                                    {
+                                     "name":"collisions",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
@@ -2878,6 +2975,60 @@
                      "x":0,
                      "y":0
                     },
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":326,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":358,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":365,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":367,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":390,
+                 "properties":[
+                        {
+                         "name":"collisions",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":422,
                  "properties":[
                         {
                          "name":"collisions",

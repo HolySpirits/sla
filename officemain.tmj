@@ -66535,16 +66535,16 @@
         0,
         0,
         0,
+        105,
+        105,
+        105,
+        0,
+        161,
+        161,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        161,
         0,
         0,
         0,
@@ -102238,7 +102238,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "officemain-chunk-1-c6427064.png",
+      "image": "officemain-chunk-1-0a687b58.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -103312,7 +103312,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "officemain-chunk-2-c6427064.png",
+      "image": "officemain-chunk-2-0a687b58.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -103323,6 +103323,12 @@
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": [
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
         {
           "id": 6,
           "properties": [

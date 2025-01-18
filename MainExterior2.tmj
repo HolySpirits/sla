@@ -160249,7 +160249,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "MainExterior2-chunk-1-8bf208bf.png",
+      "image": "MainExterior2-chunk-1-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160539,7 +160539,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "MainExterior2-chunk-2-8bf208bf.png",
+      "image": "MainExterior2-chunk-2-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160758,7 +160758,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "MainExterior2-chunk-3-8bf208bf.png",
+      "image": "MainExterior2-chunk-3-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160770,13 +160770,64 @@
       "tilewidth": 32,
       "tiles": [
         {
-          "id": 26
+          "id": 26,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 27
+          "id": 26,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 28
+          "id": 27,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
           "id": 29,
@@ -161039,6 +161090,26 @@
           ]
         },
         {
+          "id": 86,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
           "id": 91,
           "properties": [
             {
@@ -161110,6 +161181,66 @@
         },
         {
           "id": 94,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "properties": [
+            {
+              "name": "collisions",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 101,
           "properties": [
             {
               "name": "collisions",
@@ -161123,7 +161254,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "MainExterior2-chunk-4-8bf208bf.png",
+      "image": "MainExterior2-chunk-4-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161138,7 +161269,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "MainExterior2-chunk-5-8bf208bf.png",
+      "image": "MainExterior2-chunk-5-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161153,7 +161284,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "MainExterior2-chunk-6-8bf208bf.png",
+      "image": "MainExterior2-chunk-6-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161168,7 +161299,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "MainExterior2-chunk-7-8bf208bf.png",
+      "image": "MainExterior2-chunk-7-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161244,7 +161375,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "MainExterior2-chunk-8-8bf208bf.png",
+      "image": "MainExterior2-chunk-8-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161259,7 +161390,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "MainExterior2-chunk-9-8bf208bf.png",
+      "image": "MainExterior2-chunk-9-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161274,7 +161405,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "MainExterior2-chunk-10-8bf208bf.png",
+      "image": "MainExterior2-chunk-10-af334fa2.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161289,7 +161420,7 @@
     {
       "columns": 2,
       "firstgid": 2561,
-      "image": "MainExterior2-chunk-11-8bf208bf.png",
+      "image": "MainExterior2-chunk-11-af334fa2.png",
       "imageheight": 64,
       "imagewidth": 64,
       "margin": 0,

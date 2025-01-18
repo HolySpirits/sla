@@ -125491,8 +125491,8 @@
             539,
             540,
             624,
+            0,
             625,
-            626,
             541,
             539,
             540,
@@ -125514,7 +125514,7 @@
             540,
             624,
             0,
-            626,
+            625,
             541,
             539,
             540,
@@ -125541,7 +125541,7 @@
             540,
             624,
             0,
-            626,
+            625,
             541,
             539,
             540,
@@ -125561,8 +125561,8 @@
             539,
             540,
             624,
-            625,
             626,
+            625,
             541,
             539,
             540,
@@ -126084,7 +126084,7 @@
             539,
             624,
             635,
-            626,
+            625,
             540,
             541,
             539,
@@ -126100,7 +126100,7 @@
             540,
             624,
             635,
-            626,
+            625,
             540,
             541,
             539,
@@ -126133,7 +126133,7 @@
             539,
             624,
             635,
-            626,
+            625,
             540,
             541,
             539,
@@ -126150,7 +126150,7 @@
             539,
             624,
             635,
-            626,
+            625,
             540,
             541,
             539,
@@ -126167,7 +126167,7 @@
             541,
             624,
             635,
-            626,
+            625,
             539,
             540,
             541,
@@ -145434,9 +145434,30 @@
         0,
         0,
         828,
+        0,
         829,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         830,
         0,
+        828,
+        0,
+        829,
         0,
         0,
         0,
@@ -145453,59 +145474,38 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        828,
+        0,
+        829,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        828,
         831,
-        0,
-        828,
-        0,
-        830,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        828,
-        0,
-        830,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        828,
         829,
-        830,
         0,
         0,
         0,
@@ -146027,7 +146027,7 @@
         0,
         828,
         811,
-        830,
+        829,
         0,
         0,
         0,
@@ -146043,7 +146043,7 @@
         0,
         828,
         811,
-        830,
+        829,
         0,
         0,
         0,
@@ -146076,7 +146076,7 @@
         0,
         828,
         811,
-        830,
+        829,
         0,
         0,
         0,
@@ -146093,7 +146093,7 @@
         0,
         828,
         811,
-        830,
+        829,
         0,
         0,
         0,
@@ -146110,7 +146110,7 @@
         0,
         828,
         0,
-        830,
+        829,
         0,
         0,
         0,
@@ -155472,7 +155472,7 @@
         0,
         0,
         0,
-        831,
+        830,
         0,
         0,
         0,
@@ -170262,7 +170262,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "MainExterior2-chunk-1-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-1-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -170310,6 +170310,66 @@
               "name": "collides",
               "type": "bool",
               "value": true
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
             }
           ]
         },
@@ -172934,7 +172994,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "MainExterior2-chunk-2-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-2-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -175233,7 +175293,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "MainExterior2-chunk-3-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-3-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -177030,7 +177090,7 @@
             {
               "name": "collides",
               "type": "bool",
-              "value": false
+              "value": true
             }
           ]
         },
@@ -177040,6 +177100,16 @@
             {
               "name": "collides",
               "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
               "value": false
             }
           ]
@@ -177050,17 +177120,7 @@
             {
               "name": "collides",
               "type": "bool",
-              "value": true
-            }
-          ]
-        },
-        {
-          "id": 113,
-          "properties": [
-            {
-              "name": "collides",
-              "type": "bool",
-              "value": true
+              "value": false
             }
           ]
         },
@@ -178669,7 +178729,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "MainExterior2-chunk-4-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-4-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -183185,7 +183245,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "MainExterior2-chunk-5-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-5-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -185697,6 +185757,46 @@
           ]
         },
         {
+          "id": 126,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
           "id": 129,
           "properties": [
             {
@@ -186473,6 +186573,46 @@
               "name": "collides",
               "type": "bool",
               "value": false
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
             }
           ]
         },
@@ -188161,7 +188301,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "MainExterior2-chunk-6-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-6-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -190493,6 +190633,86 @@
           ]
         },
         {
+          "id": 118,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
           "id": 123,
           "properties": [
             {
@@ -191069,6 +191289,86 @@
               "name": "collides",
               "type": "bool",
               "value": true
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 154,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 154,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 155,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 155,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
             }
           ]
         },
@@ -191653,6 +191953,86 @@
           ]
         },
         {
+          "id": 186,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 186,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 187,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 187,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 188,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 188,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
           "id": 190,
           "properties": [
             {
@@ -192153,6 +192533,86 @@
           ]
         },
         {
+          "id": 216,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
           "id": 220,
           "properties": [
             {
@@ -192649,6 +193109,166 @@
               "name": "collides",
               "type": "bool",
               "value": true
+            }
+          ]
+        },
+        {
+          "id": 245,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 245,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 246,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 246,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 247,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 247,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 248,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 248,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 249,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 249,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 250,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 251,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 251,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 252,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 252,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
             }
           ]
         },
@@ -192717,7 +193337,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "MainExterior2-chunk-7-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-7-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -193249,6 +193869,226 @@
           ]
         },
         {
+          "id": 26,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
           "id": 37,
           "properties": [
             {
@@ -193825,6 +194665,226 @@
               "name": "collides",
               "type": "bool",
               "value": true
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
             }
           ]
         },
@@ -196073,7 +197133,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "MainExterior2-chunk-8-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-8-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -196236,6 +197296,26 @@
         },
         {
           "id": 20,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 36,
           "properties": [
             {
               "name": "collides",
@@ -198749,7 +199829,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "MainExterior2-chunk-9-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-9-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202585,7 +203665,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "MainExterior2-chunk-10-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-10-89fa0a32.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -206061,7 +207141,7 @@
     {
       "columns": 4,
       "firstgid": 2561,
-      "image": "MainExterior2-chunk-11-a6ea0e0c.png",
+      "image": "MainExterior2-chunk-11-89fa0a32.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,

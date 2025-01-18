@@ -170262,7 +170262,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "MainExterior2-chunk-1-c5db2314.png",
+      "image": "MainExterior2-chunk-1-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -170435,6 +170435,57 @@
         },
         {
           "id": 95,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "animation": [
+            {
+              "duration": 100,
+              "tileid": 95
+            },
+            {
+              "duration": 100,
+              "tileid": 96
+            },
+            {
+              "duration": 100,
+              "tileid": 97
+            },
+            {
+              "duration": 100,
+              "tileid": 98
+            },
+            {
+              "duration": 100,
+              "tileid": 99
+            },
+            {
+              "duration": 100,
+              "tileid": 100
+            },
+            {
+              "duration": 100,
+              "tileid": 101
+            },
+            {
+              "duration": 100,
+              "tileid": 102
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ],
           "animation": [
             {
               "duration": 100,
@@ -170472,6 +170523,57 @@
         },
         {
           "id": 103,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "animation": [
+            {
+              "duration": 100,
+              "tileid": 104
+            },
+            {
+              "duration": 100,
+              "tileid": 105
+            },
+            {
+              "duration": 100,
+              "tileid": 106
+            },
+            {
+              "duration": 100,
+              "tileid": 107
+            },
+            {
+              "duration": 100,
+              "tileid": 108
+            },
+            {
+              "duration": 100,
+              "tileid": 109
+            },
+            {
+              "duration": 100,
+              "tileid": 110
+            },
+            {
+              "duration": 100,
+              "tileid": 111
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ],
           "animation": [
             {
               "duration": 100,
@@ -172832,7 +172934,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "MainExterior2-chunk-2-c5db2314.png",
+      "image": "MainExterior2-chunk-2-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -175131,7 +175233,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "MainExterior2-chunk-3-c5db2314.png",
+      "image": "MainExterior2-chunk-3-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -178567,7 +178669,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "MainExterior2-chunk-4-c5db2314.png",
+      "image": "MainExterior2-chunk-4-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -183083,7 +183185,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "MainExterior2-chunk-5-c5db2314.png",
+      "image": "MainExterior2-chunk-5-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -188059,7 +188161,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "MainExterior2-chunk-6-c5db2314.png",
+      "image": "MainExterior2-chunk-6-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -192615,7 +192717,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "MainExterior2-chunk-7-c5db2314.png",
+      "image": "MainExterior2-chunk-7-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -195971,7 +196073,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "MainExterior2-chunk-8-c5db2314.png",
+      "image": "MainExterior2-chunk-8-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -198647,7 +198749,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "MainExterior2-chunk-9-c5db2314.png",
+      "image": "MainExterior2-chunk-9-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -202483,7 +202585,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "MainExterior2-chunk-10-c5db2314.png",
+      "image": "MainExterior2-chunk-10-70ccf73c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -205959,7 +206061,7 @@
     {
       "columns": 4,
       "firstgid": 2561,
-      "image": "MainExterior2-chunk-11-c5db2314.png",
+      "image": "MainExterior2-chunk-11-70ccf73c.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,

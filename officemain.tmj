@@ -24053,17 +24053,6 @@
       "y": 0
     },
     {
-      "name": "floorLayer",
-      "objects": [],
-      "opacity": 1,
-      "type": "objectgroup",
-      "visible": true,
-      "draworder": "topdown",
-      "id": 3,
-      "x": 0,
-      "y": 0
-    },
-    {
       "name": "Tables",
       "opacity": 1,
       "type": "group",
@@ -60149,6 +60138,17 @@
       "type": "tilelayer",
       "visible": true,
       "width": 100,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "floorLayer",
+      "objects": [],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "draworder": "topdown",
+      "id": 3,
       "x": 0,
       "y": 0
     },
@@ -102270,7 +102270,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "officemain-chunk-1-a6b2c651.png",
+      "image": "officemain-chunk-1-c1087b79.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -102637,6 +102637,12 @@
           ]
         },
         {
+          "id": 156
+        },
+        {
+          "id": 157
+        },
+        {
           "id": 158,
           "properties": [
             {
@@ -102677,7 +102683,24 @@
           ]
         },
         {
-          "id": 160
+          "id": 160,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": false
+            }
+          ]
         },
         {
           "id": 161
@@ -103084,13 +103107,53 @@
               "value": true
             }
           ]
+        },
+        {
+          "id": 237,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 237,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 238,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 238,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         }
       ]
     },
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "officemain-chunk-2-a6b2c651.png",
+      "image": "officemain-chunk-2-c1087b79.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
